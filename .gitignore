@@ -188,3 +188,12 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/src/.vs/DualScreen.Net/v16/Server/sqlite3/storage.ide
+/src/.vs/DualScreen.Net/v16/Server/sqlite3/db.lock
+/src/.vs/DualScreen.Net/v16/Server/sqlite3/storage.ide-shm
+/src/.vs/DualScreen.Net/v16/Server/sqlite3/storage.ide-wal
+/src/.vs/DualScreen.Net/v16/Browse.VC.db
+/src/.vs/DualScreen.Net/v16/Solution.VC.db-wal
+/src/.vs/DualScreen.Net/v16/Solution.VC.db-shm
+/src/.vs/DualScreen.Net/v16/Solution.VC.db
+/src/.vs/DualScreen.Net/v16/Browse.VC.opendb
